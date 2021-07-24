@@ -26,7 +26,7 @@ int main() {
 
   if(distance<=30)
   {
-    amount =  distance + 30;
+    amount =  distance + 50;
   }
   else 
   {
